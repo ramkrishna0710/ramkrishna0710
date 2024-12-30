@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkrishna0710&label=Profile%20views&color=0e75b6&style=flat" alt="ramkrishna0710" /> </p>
 
-- 🔭 I’m currently working on **Streaming App**
+- 🔭 I’m currently working on **H4Life App**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Android , SpringBoot**
+- 💬 Ask me about **Mobile App**
 
 - 📫 How to reach me **ramkrishna0710mandal@gmail.com**
 
