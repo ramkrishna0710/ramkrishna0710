@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramkrishna0710&label=Profile%20views&color=0e75b6&style=flat" alt="ramkrishna0710" /> </p>
 
-- 🔭 I’m currently working on **Mill Mitra**
+- 🔭 I’m currently working on **Coffee App**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **Mobile App**
 
